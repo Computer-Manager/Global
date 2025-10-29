@@ -1,1 +1,1 @@
-https://github.com/Scary-technologies/Server-Checker-Script/blob/main/Rich.py
+https://github.com/Scary-technologies/Port-Scanner/blob/main/PortScanner-Windows.exe
