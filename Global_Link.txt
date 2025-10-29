@@ -1,1 +1,1 @@
-blob:https://github.com/42212a36-4f74-4d6f-a6ff-b313208c65a6
+https://github.com/Scary-technologies/Port-Scanner/blob/main/PortScanner-Windows.exe
