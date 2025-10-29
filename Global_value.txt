@@ -1,1 +1,1 @@
-Green
+https://github.com/Scary-technologies/Server-Checker-Script/blob/main/Rich.py
